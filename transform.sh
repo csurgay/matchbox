@@ -24,12 +24,12 @@ do
 		>&2 echo "$l5 already listed"
 	else
 		pre='<img src="'
-		dir="$2-images$1/"
+		dir="images/"
 		img=$(echo $l2 | sed 's/mbx-u\.com\/images\/models\///')
 		post='" width="240px">'
 		echo $pre$dir$img$post
 		((count++))
 		echo "<br>$count. $l5 ($2)<p>"
 	fi
-done < txt/simple$1.txt
+done < simple$1.txt
 

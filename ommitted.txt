@@ -1,0 +1,943 @@
+172:1967 is being processed...
+############ 1967 ############
+Ford Fairlane Fire Chief's Car already listed
+174:1968 is being processed...
+############ 1968 ############
+Mercedes Truck already listed
+Mercedes Trailer already listed
+Mercedes Benz "Binz" Ambulance already listed
+Dodge Stake Truck already listed
+(AEC) Routemaster London Bus already listed
+Ford Refuse Truck already listed
+Ford Mustang already listed
+Boat & Trailer already listed
+Leyland Pipe Truck already listed
+Taylor Jumbo Crane already listed
+Land Rover Safari already listed
+Dodge Wreck Truck already listed
+Scammel Mountaineer Snowplow already listed
+Foden Hoveringham Tipper already listed
+Caterpillar Bulldozer already listed
+Lotus Mk 33 Racing Car already listed
+Chevrolet Impala Taxi already listed
+Pontiac GP Sports Coupe already listed
+Rolls Royce Silver Shadow already listed
+Mercedes-Benz 230SL already listed
+Fire Pumper Truck already listed
+Faun 8 Wheel Crane already listed
+Snow-Trac already listed
+Opel Diplomat already listed
+Dodge Cattle Truck already listed
+Honda Motorcycle & Trailer already listed
+Ford Tractor already listed
+Hay Trailer already listed
+Ford GT40 already listed
+GMC Refrigerator Truck already listed
+Ford Corsair already listed
+Dodge Dumper Truck already listed
+John Deere Lanz 700 Tractor already listed
+Tipping Trailer already listed
+BRM Racing Car already listed
+S & S Cadillac Ambulance already listed
+Ford Galaxie Police Car already listed
+Fiat 1500 already listed
+Land Rover Fire Truck already listed
+Ford Fairlane Fire Chief's Car already listed
+Leyland Site Hut Truck already listed
+Alvis Stalwart already listed
+MG 1100 already listed
+Claas Combine Harvester already listed
+Greyhound Bus already listed
+Mercedes Coach already listed
+Hatra Tractor Shovel already listed
+Ford Grit Spreader already listed
+Ferrari Berlinetta already listed
+176:1969 is being processed...
+############ 1969 ############
+Mercedes Truck already listed
+Mercedes Trailer already listed
+Mercedes Benz "Binz" Ambulance already listed
+Dodge Stake Truck already listed
+Ford Pick-up already listed
+Ford Refuse Truck already listed
+Ford Mustang already listed
+Boat & Trailer already listed
+Leyland Pipe Truck already listed
+Land Rover Safari already listed
+Dodge Wreck Truck already listed
+Foden Concrete Truck already listed
+Rolls Royce Silver Shadow already listed
+Ford Cortina Mk II already listed
+GMC Tipper Truck already listed
+Mercedes-Benz 230SL already listed
+Mack Dump Truck already listed
+Fire Pumper Truck already listed
+Faun 8 Wheel Crane already listed
+Lincoln Continental already listed
+Leyland Petrol Tanker already listed
+Volkswagon Camper already listed
+Opel Diplomat already listed
+Dodge Cattle Truck already listed
+Ford Tractor already listed
+Hay Trailer already listed
+Ford GT40 already listed
+Pony Trailer already listed
+GMC Refrigerator Truck already listed
+Ford Corsair already listed
+Dodge Dumper Truck already listed
+Mercedes Unimog already listed
+BRM Racing Car already listed
+Ford Zodiac Mk IV already listed
+S & S Cadillac Ambulance already listed
+Ford Galaxie Police Car already listed
+Land Rover Fire Truck already listed
+DAF Girder Truck already listed
+Ford Fairlane Fire Chief's Car already listed
+Leyland Site Hut Truck already listed
+Alvis Stalwart already listed
+Mercury Cougar already listed
+Dodge Crane Truck already listed
+MG 1100 already listed
+Claas Combine Harvester already listed
+Greyhound Bus already listed
+Volkswagen 1600 TL already listed
+Mercedes Coach already listed
+Ford Grit Spreader already listed
+Ford Heavy Wreck Truck already listed
+Mercury Commuter already listed
+Ferrari Berlinetta already listed
+178:1970 is being processed...
+############ 1970 ############
+Lotus Europa already listed
+Iso Grifo already listed
+Volkswagen 1500 Saloon already listed
+Case Tractor already listed
+Lamborghini Marzal already listed
+Foden Concrete Truck already listed
+Mercedes-Benz 230SL already listed
+Volkswagon Camper already listed
+Merryweather Fire Engine already listed
+Dodge Cattle Truck already listed
+Ford Tractor already listed
+Hay Trailer already listed
+BMC 1800 Pininfarina already listed
+Alvis Stalwart already listed
+Claas Combine Harvester already listed
+Rolls Royce Silver Shadow Coupe already listed
+181:1971 is being processed...
+############ 1971 ############
+Mercedes Benz "Binz" Ambulance already listed
+Dodge Stake Truck already listed
+Ford Pick-Up already listed
+Ford Refuse Truck already listed
+Boat & Trailer already listed
+Leyland Pipe Truck already listed
+Mercedes Scaffolding Truck already listed
+Volkswagen 1500 Saloon already listed
+Case Tractor already listed
+Field Car already listed
+Rolls Royce Silver Shadow already listed
+Ford Cortina Mk II already listed
+G.M.C. Tipper Truck already listed
+Mack Dump Truck already listed
+Lincoln Continental already listed
+Leyland Petrol Tanker already listed
+Lamborghini Miura already listed
+Dodge Cattle Truck already listed
+Honda Motor Cycle Trailer already listed
+Ford Tractor already listed
+Iron Fairy Crane already listed
+Pony Trailer already listed
+Mercedes 300 SE Coupe already listed
+DAF Tipper Container Truck already listed
+Dodge Dumper Truck already listed
+Mercedes Unimog already listed
+Ford Kennel Truck already listed
+BMC 1800 Pininfarina already listed
+Alvis Stalwart already listed
+Dodge Crane Truck already listed
+Claas Combine Harvester already listed
+(GMC) Greyhound Coach already listed
+Volkswagen 1600 TL already listed
+Porsche 910 already listed
+Ford Grit Spreader already listed
+Ford Heavy Wreck Truck already listed
+Jeep (CJ 5) already listed
+Mercury Commuter already listed
+Daimler Fleetline Bus already listed
+186:1972 is being processed...
+############ 1972 ############
+Mod Rod already listed
+Jeep Hot Rod already listed
+Mercedes Benz "Binz" Ambulance already listed
+Lotus Europa already listed
+Ford Pick-Up already listed
+Leyland Pipe Truck already listed
+Baja Buggy already listed
+Iso Grifo already listed
+Case Tractor already listed
+Field Car already listed
+Road Dragster already listed
+Lamborghini Marzal already listed
+Foden Concrete Truck already listed
+Rolls Royce Silver Shadow already listed
+Mercedes 230 SL already listed
+Mack Dump Truck already listed
+Beach Buggy already listed
+Leyland Petrol Tanker already listed
+Lamborghini Miura already listed
+Ferrari Formula 1 Racing Car already listed
+Merryweather Fire Engine already listed
+Draguar already listed
+Ford Tractor already listed
+Vauxhall Guildsman already listed
+DAF Tipper Container Truck already listed
+Mercedes Unimog already listed
+Mercury Park Lane Fire Chief Car already listed
+Lotus Super Seven already listed
+Dodge Crane Truck already listed
+Slingshot Dragster already listed
+Claas Combine Harvester already listed
+Porsche 910 already listed
+Rolls Royce Silver Shadow Coupe already listed
+Ford Heavy Wreck Truck already listed
+Alfa Carabo already listed
+191:1973 is being processed...
+############ 1973 ############
+Jeep Hot Rod already listed
+Gruesome Twosome already listed
+Lotus Europa already listed
+Ford Pick-up already listed
+Ford Mustang Wildcat Dragster already listed
+AMX Javelin already listed
+(VW) Flying Bug already listed
+Baja Buggy already listed
+Iso Grifo already listed
+Case Tractor already listed
+Field Car already listed
+Road Dragster already listed
+Lamborghini Marzal already listed
+Volkswagen Camper / Dormobile already listed
+Mod Tractor already listed
+Mack Dump Truck already listed
+Racing Mini already listed
+Beach Buggy already listed
+Volks-Dragon already listed
+Merryweather Fire Engine already listed
+Soopa Coopa already listed
+Vauxhall Guildsman already listed
+Siva (S 160) Spyder already listed
+Tyre Fryer already listed
+(VW) Dragon Wheels already listed
+Ford Boss Mustang already listed
+Stretcha Fetcha Ambulance already listed
+DAF Tipper Container Truck already listed
+Pi-Eyed Piper already listed
+Citroen S.M. already listed
+Dodge Charger Mk III already listed
+Tanzara already listed
+Ford Capri already listed
+Mercury Commuter Police Car already listed
+BMC 1800 Pininfarina already listed
+Lotus Super Seven already listed
+Blue Shark already listed
+Mercury Cougar Dragster already listed
+Mazda RX 500 already listed
+Porsche 910 already listed
+Dodge Charger Dragster already listed
+SRN 6 Hovercraft / Hovercraft already listed
+Toe Joe already listed
+Alfa Carabo already listed
+195:1974 is being processed...
+############ 1974 ############
+Mod Rod already listed
+Jeep Hot Rod already listed
+Monteverdi Hai already listed
+Lotus Europa already listed
+Ford Mustang Wildcat Dragster already listed
+AMX Javelin already listed
+Ford Mustang Piston Popper already listed
+(VW) Flying Bug already listed
+Setra (S 80) Coach already listed
+Baja Buggy already listed
+Iso Grifo already listed
+Lansing Bagnall Fork Lift Truck already listed
+Field Car already listed
+Road Dragster already listed
+Lamborghini Marzal already listed
+Rod Roller already listed
+Freeman Inter-City Commuter already listed
+Volkswagen Camper / Dormobile already listed
+Team Matchbox Racing Car already listed
+Mod Tractor already listed
+Big Banger already listed
+Lamborghini Countach already listed
+Racing Mini already listed
+Beach Buggy already listed
+Volks-Dragon already listed
+Maserati Bora already listed
+Datsun 126 X already listed
+Merryweather Fire Engine already listed
+Soopa Coopa already listed
+The Stingeroo Chopper already listed
+Clipper already listed
+Vauxhall Guildsman already listed
+Siva (S 160) Spyder already listed
+Tyre Fryer already listed
+(VW) Dragon Wheels already listed
+Ford Boss Mustang already listed
+Stretcha Fetcha Ambulance already listed
+Pi-Eyed Piper already listed
+Chop Suey Chopper already listed
+Articulated Truck already listed
+Citroen S.M. already listed
+Dodge Charger Mk III already listed
+Tanzara already listed
+Ford Capri already listed
+Ford Capri already listed
+Ford Wild Life Truck already listed
+Woosh-N-Push already listed
+Mercury Park Lane Fire Chief Car already listed
+Lotus Super Seven already listed
+Blue Shark already listed
+Freeway Gas Tanker already listed
+Saab Sonett III already listed
+Mazda RX 500 already listed
+Ford Capri Hot Rocker already listed
+Porsche 910 already listed
+Turbo Fury already listed
+Dodge Charger Dragster already listed
+Jumbo Jet Chopper already listed
+SRN 6 Hovercraft / Hovercraft already listed
+Toe Joe already listed
+Alfa Carabo already listed
+200:1975 is being processed...
+############ 1975 ############
+Mod Rod already listed
+Monteverdi Hai already listed
+Mercedes 350 SL already listed
+Hairy Hustler already listed
+AMX Javelin already listed
+Ford Mustang Piston Popper already listed
+(VW) Flying Bug already listed
+Baja Buggy already listed
+Lansing Bagnall Fork Lift Truck already listed
+Badger Radar Truck already listed
+The Londoner Daimler Bus already listed
+Rod Roller already listed
+Team Matchbox Racing Car already listed
+Mod Tractor already listed
+Big Banger already listed
+Stoat Scout Car already listed
+Racing Mini already listed
+Beach Buggy already listed
+Volks-Dragon already listed
+Maserati Bora already listed
+Datsun 126 X already listed
+Soopa Coopa already listed
+The Stingeroo Chopper already listed
+Clipper already listed
+Vauxhall Guildsman already listed
+Siva (S 160) Spyder already listed
+Tyre Fryer already listed
+(VW) Dragon Wheels already listed
+Ford Boss Mustang already listed
+Ford (F3L) Group 6 already listed
+Stretcha Fetcha Ambulance already listed
+Beach Hopper already listed
+Pi-Eyed Piper already listed
+Chop Suey Chopper already listed
+Articulated Truck already listed
+Citroen S.M. already listed
+Dodge Charger Mk III already listed
+Ford Capri already listed
+Hi-tailer already listed
+Ford Wild Life Truck already listed
+Woosh-N-Push already listed
+Blue Shark already listed
+Freeway Gas Tanker already listed
+Slingshot Dragster already listed
+Saab Sonett III already listed
+Turbo Fury already listed
+Dodge Charger Dragster already listed
+Jumbo Jet Chopper already listed
+SRN 6 Hovercraft / Hovercraft already listed
+Weasel Armoured Car already listed
+Toe Joe already listed
+Alfa Carabo already listed
+219:1978 is being processed...
+############ 1978 ############
+Pontiac Firebird SE already listed
+Seafire Boat already listed
+De Tomaso Pantera already listed
+Ford Mustang Piston Popper already listed
+Big Bull Bulldozer already listed
+Mini-Ha-Ha already listed
+Lansing Bagnall Fork Lift Truck already listed
+Badger Radar Truck already listed
+The Londoner Daimler Bus already listed
+Hondarora Motorcycle already listed
+Range Rover Police Patrol already listed
+Blaze Buster Fire Engine already listed
+Lamborghini Countach already listed
+Stretcha Fetcha Ambulance already listed
+Beach Hopper already listed
+Hi-tailer already listed
+Ford Wild Life Truck already listed
+Planet Scout already listed
+Renault 17 TL already listed
+SRN 6 Hovercraft / Hovercraft already listed
+Toe Joe already listed
+228:1979 is being processed...
+############ 1979 ############
+Dodge Challenger already listed
+Rescue Hovercraft already listed
+Pontiac Firebird SE already listed
+VW Golf already listed
+De Tomaso Pantera already listed
+Ford Escort RS 2000 already listed
+Bedford Car Transporter already listed
+(GMC) Snorkel Fire Engine already listed
+Lansing Bagnall Fork Lift Truck already listed
+Badger Radar Truck already listed
+The Londoner Daimler Bus already listed
+Hondarora Motorcycle already listed
+Cement Truck already listed
+Range Rover Police Patrol already listed
+Blaze Buster Fire Engine already listed
+Atlas Dump Truck already listed
+Lamborghini Countach already listed
+Muir Hill Tractor Shovel already listed
+Swamp Rat already listed
+Caravan already listed
+Field Gun already listed
+Honda 750 Police Motorcycle already listed
+Ford Mustang Vantastic already listed
+Fandango already listed
+Skip Truck already listed
+Horse-Box already listed
+Mercedes Container Truck already listed
+0-4-0 Steam Loco already listed
+Railway Passenger Coach already listed
+BMW 3.0 CSL already listed
+Sambron Jacklift already listed
+Crane Truck already listed
+Articulated Truck already listed
+Combine Harvester already listed
+Police Launch already listed
+Jeep CJ 6 already listed
+Personnel Carrier already listed
+Ford Wild Life Truck already listed
+Holden Pick-Up already listed
+Ford Wreck Truck already listed
+Ford Transit already listed
+Datsun 260Z 2+2 already listed
+Armored Truck already listed
+S.P. Gun already listed
+Dodge Cattle Truck already listed
+15:1980 is being processed...
+############ 1980 ############
+Dodge Challenger already listed
+U.S. Mail Truck Jeep already listed
+Mercedes 350 SL already listed
+De Tomaso Pantera already listed
+Ford Escort RS 2000 already listed
+Citroen CX Break already listed
+(GMC) Snorkel Fire Engine already listed
+Mini-Ha-Ha already listed
+Lansing Bagnall Fork Lift Truck already listed
+Badger Radar Truck already listed
+The Londoner Daimler Bus already listed
+Hondarora Motorcycle already listed
+Cement Truck already listed
+Range Rover Police Patrol already listed
+Renault 5 TL already listed
+Blaze Buster Fire Engine already listed
+Atlas Dump Truck already listed
+Diesel Shunter already listed
+Site Dumper already listed
+Lamborghini Countach already listed
+Lincoln Continental MK V already listed
+Swamp Rat already listed
+Caravan already listed
+Field Gun already listed
+Honda 750 Police Motorcycle already listed
+Ford Mustang Vantastic already listed
+Fandango already listed
+Formula 5000 already listed
+Skip Truck already listed
+U.S. Mail Truck Jeep already listed
+Rolls-Royce Silver Shadow II already listed
+Horse-Box already listed
+Chevrolet Ambulance already listed
+0-4-0 Steam Loco already listed
+Railway Passenger Coach already listed
+BMW 3.0 CSL already listed
+Ford Tractor already listed
+Pannier Tank Loco already listed
+Sambron Jacklift already listed
+Crane Truck already listed
+Articulated Truck already listed
+Combine Harvester already listed
+Police Launch already listed
+Jeep CJ 6 already listed
+Ford Cortina Mk IV already listed
+Mercedes 450 SEL already listed
+Ford Wild Life Truck already listed
+Faun Dump Truck already listed
+Holden Pick-Up already listed
+Ford Wreck Truck already listed
+Chevrolet Corvette already listed
+Freeway Gas Tanker already listed
+Ford Transit already listed
+Datsun 260Z 2+2 already listed
+Chevy Van already listed
+Armored Truck already listed
+S.P. Gun already listed
+Dodge Cattle Truck already listed
+Bomag Road Roller already listed
+Mercury Cougar Villager already listed
+18:1981 is being processed...
+############ 1981 ############
+Porsche (930) Turbo already listed
+'57 Chevy already listed
+U.S. Mail Truck Jeep already listed
+Mercedes 350 SL already listed
+De Tomaso Pantera already listed
+Ford Escort RS 2000 already listed
+Plymouth Gran Fury Police already listed
+Bedford Car Transporter already listed
+Citroen CX Break already listed
+(GMC) Snorkel Fire Engine already listed
+Lansing Bagnall Fork Lift Truck already listed
+The Londoner Daimler Bus already listed
+Cement Truck already listed
+Blaze Buster Fire Engine already listed
+Diesel Shunter already listed
+Lincoln Continental MK V already listed
+Honda 750 Police Motorcycle already listed
+Fandango already listed
+0-4-0 Steam Loco already listed
+Railway Passenger Coach already listed
+BMW 3.0 CSL already listed
+Pannier Tank Loco already listed
+Sambron Jacklift already listed
+Combine Harvester already listed
+Mobile Home already listed
+Faun Dump Truck already listed
+Caterpillar D9 Tractor already listed
+Ford Transit already listed
+Armored Truck already listed
+Bomag Road Roller already listed
+Seasprite Helicopter already listed
+23:1982 is being processed...
+############ 1982 ############
+Plymouth Gran Fury Police already listed
+(GMC) Snorkel Fire Engine already listed
+Range Rover Police Patrol already listed
+Blaze Buster Fire Engine already listed
+Atlas Dump Truck already listed
+Diesel Shunter already listed
+Swing Wing (F 14) Tomcat Jet already listed
+Leyland Articulated Truck Cab already listed
+Caravan already listed
+Chevy Pro Stocker already listed
+Horse-Box already listed
+Chevrolet Ambulance already listed
+0-4-0 Steam Loco already listed
+Railway Passenger Coach already listed
+Ford Tractor already listed
+Sambron Jacklift already listed
+Crane Truck already listed
+Harley Davidson Sportster already listed
+Mercedes 450 SEL already listed
+Faun Dump Truck already listed
+Chevrolet Corvette already listed
+Airport Coach already listed
+Armored Truck already listed
+Ferrari 308 GTB already listed
+Dodge Cattle Truck already listed
+26:1983 is being processed...
+############ 1983 ############
+Dodge Challenger already listed
+S 2 Buccaneer Jet already listed
+Porsche (930) Turbo already listed
+4x4 Jeep with Roll-bar already listed
+Plymouth Gran Fury Police already listed
+Bedford Car Transporter already listed
+Leyland Articulated Tanker already listed
+Lansing Bagnall Fork Lift Truck already listed
+Leyland Titan London Bus already listed
+Hondarora Motorcycle already listed
+Peterbilt Cement Truck already listed
+Renault 5 TL already listed
+Blaze Buster Fire Engine already listed
+Audi Quattro already listed
+Volvo Cable Truck already listed
+Swing Wing (F 14) Tomcat Jet already listed
+Formula 5000 already listed
+Muir Hill Tractor Shovel already listed
+Atlas Excavator already listed
+Honda 750 Police Motorcycle already listed
+Volvo Zoo Truck already listed
+Model A Ford Van already listed
+Horse-Box already listed
+0-4-0 Steam Loco already listed
+Kenworth Cabover Aerodyne already listed
+Ford Tractor already listed
+SS 100 Jaguar already listed
+Harley Davidson Sportster already listed
+NASA Tracking Vehicle already listed
+Porsche 928 already listed
+Ford 4x4 Open Back Truck already listed
+Caterpillar D9 Tractor already listed
+Airport Coach already listed
+Kenworth Super Boss already listed
+Dodge Cattle Truck already listed
+Dodge Commando Box Van already listed
+Model A Ford Car already listed
+Fiat (131) Abarth already listed
+49:1984 is being processed...
+############ 1984 ############
+S 2 Buccaneer Jet already listed
+'57 Chevy already listed
+(IMSA) Mazda RX-7 already listed
+Rover 3500 already listed
+AMX Pro-Stocker already listed
+Bedford Car Transporter already listed
+Citroen CX Break already listed
+Merryweather Snorkel Fire Engine already listed
+Pontiac Firebird T-Roof already listed
+Peterbilt Cement Truck already listed
+Range Rover Police Patrol already listed
+Peterbilt Quarry Truck already listed
+Datsun 280 ZX 2+2 already listed
+Swing Wing (F 14) Tomcat Jet already listed
+Muir Hill Tractor Shovel already listed
+Leyland Articulated Truck Cab already listed
+Mazda RX-7 already listed
+Atlas Excavator already listed
+Honda 750 Police Motorcycle already listed
+Volvo Zoo Truck already listed
+Talbot Matra Rancho already listed
+Rolls-Royce Silver Shadow II already listed
+Horse-Box already listed
+Racing Porsche 935 already listed
+Citroen 15 CV already listed
+SS 100 Jaguar already listed
+Mercedes Unimog with Plow already listed
+(VW) Sand Digger already listed
+Pontiac Firebird SE already listed
+BMW M1 already listed
+Ford Flareside Pick-up already listed
+Mercedes 450 SEL already listed
+Carmichael Commando already listed
+Holden Ruff Trek already listed
+Toyota Supra already listed
+Chevrolet Corvette T-Roof already listed
+Ford 4x4 Open Back Truck already listed
+Kenworth Super Boss already listed
+4x4 Chevy Van already listed
+Ferrari 308 GTB already listed
+Dodge Cattle Truck already listed
+Model A Ford Car already listed
+50:1985 is being processed...
+############ 1985 ############
+Dodge Challenger already listed
+Porsche (930) Turbo already listed
+'57 Chevy already listed
+F 1 Racer already listed
+(IMSA) Mazda RX-7 already listed
+Rover 3500 already listed
+AMX Pro-Stocker already listed
+Plymouth Gran Fury Police already listed
+4x4 Jeep with Canopy already listed
+Peugeot 205 Turbo 16 already listed
+Leyland Titan London Bus already listed
+Oshkosh Fire Engine already listed
+Jaguar XK 120 already listed
+Datsun 280 ZX 2+2 already listed
+Audi Quattro already listed
+Volvo Tilt Truck already listed
+Swing Wing (F 14) Tomcat Jet already listed
+1984 Dodge Daytona Turbo Z already listed
+Muir Hill Tractor Shovel already listed
+Mazda RX-7 already listed
+Atlas Excavator already listed
+Honda 750 Police Motorcycle already listed
+Chevy Pro Stocker already listed
+Ford Refuse Truck already listed
+Talbot Matra Rancho already listed
+Model A Ford Van already listed
+Racing Porsche 935 already listed
+Faun Mobile Crane already listed
+Citroen 15 CV already listed
+Kenworth Cabover Aerodyne already listed
+Sauber Group C Racer already listed
+SS 100 Jaguar already listed
+Mercedes Unimog with Plow already listed
+4x4 Chevy Blazer already listed
+Ford Flareside Pick-up already listed
+Command Vehicle already listed
+Ford Sierra XR 4 i already listed
+Porsche 928 already listed
+Peterbilt Wreck Truck already listed
+Ford 4x4 Open Back Truck already listed
+ already listed
+Kenworth Super Boss already listed
+IMSA Ford Mustang already listed
+4x4 Chevy Van already listed
+1983/1984 Corvette already listed
+Dodge Commando Box Van already listed
+Fiat (131) Abarth already listed
+Helicopter already listed
+60:1986 is being processed...
+############ 1986 ############
+Dodge Challenger already listed
+Pontiac Fiero already listed
+Porsche (930) Turbo already listed
+'57 Chevy already listed
+F 1 Racer already listed
+Rover 3500 already listed
+Caterpillar D9 Tractor already listed
+Plymouth Gran Fury Police already listed
+Pontiac Firebird Racer already listed
+Merryweather Snorkel Fire Engine already listed
+4x4 Jeep with Canopy already listed
+Peugeot 205 Turbo 16 already listed
+Pontiac Firebird T-Roof already listed
+Oshkosh Fire Engine already listed
+Peterbilt Cement Truck already listed
+Volvo Container Truck already listed
+Chevrolet Breakdown Van already listed
+Peterbilt Quarry Truck already listed
+Muir Hill Tractor Shovel already listed
+Mercedes-Benz 280 GE already listed
+Atlas Excavator already listed
+Chevy Pro Stocker already listed
+Ford Mini Pick-up with Canopy already listed
+Ford Refuse Truck already listed
+Transporter Vehicle with Rocket already listed
+Faun Mobile Crane already listed
+Mercedes 500 SEC already listed
+4x4 Chevy Blazer already listed
+Pontiac Firebird SE already listed
+Volkswagen Golf GTI already listed
+Mission Helicopter already listed
+Holden Ruff Trek already listed
+Porsche 928 already listed
+1984 Dodge Caravan already listed
+ already listed
+Kenworth Super Boss already listed
+1983/1984 Corvette already listed
+Ferrari 308 GTB already listed
+Scania T 142 Cab already listed
+69:1987 is being processed...
+############ 1987 ############
+Peterbilt Tanker already listed
+F 1 Racer already listed
+Caterpillar D9 Tractor already listed
+Lamborghini Countach LP 500 S already listed
+Merryweather Snorkel Fire Engine already listed
+Peugeot 205 Turbo 16 already listed
+Leyland Titan London Bus already listed
+Oshkosh Fire Engine already listed
+Peterbilt Cement Truck already listed
+Chevrolet Breakdown Van already listed
+Jaguar XK 120 already listed
+Peterbilt Quarry Truck already listed
+Audi Quattro already listed
+Volvo Tilt Truck already listed
+Jeep Cherokee already listed
+1984 Dodge Daytona Turbo Z already listed
+Muir Hill Tractor Shovel already listed
+Mercedes-Benz 280 GE already listed
+Rolls-Royce Silver Cloud already listed
+Atlas Excavator already listed
+Renault 11 already listed
+Ford Mini Pick-up with Canopy already listed
+Ford Escort Cabriolet already listed
+Model A Ford Van already listed
+BMW 323i Cabriolet already listed
+Transporter Vehicle with Rocket already listed
+Faun Mobile Crane already listed
+Sauber Group C Racer already listed
+Peugeot Quasar already listed
+4x4 Chevy Blazer already listed
+BMW M1 already listed
+Ford Flareside Pick-up already listed
+Command Vehicle already listed
+Ford Sierra XR 4 i already listed
+Volkswagen Golf GTI already listed
+Porsche 928 already listed
+Peterbilt Wreck Truck already listed
+Volvo 760 already listed
+Ford 4x4 Open Back Truck already listed
+Ikarus Coach already listed
+1983/1984 Corvette already listed
+Ferrari 308 GTB already listed
+Ford Supervan II already listed
+Model A Ford Car already listed
+Toyota MR 2 already listed
+Ferrari Testarossa already listed
+74:1988 is being processed...
+############ 1988 ############
+Jaguar XJ 6 already listed
+Porsche (930) Turbo already listed
+Carbodies London Taxi already listed
+Peterbilt Tanker already listed
+Vauxhall Astra GTE / Opel Kadett GSi Police already listed
+Caterpillar D9 Tractor already listed
+Buick Le Sabre already listed
+Merryweather Snorkel Fire Engine already listed
+Peugeot 205 Turbo 16 already listed
+Land Rover Ninety already listed
+Leyland Titan London Bus already listed
+Oshkosh Fire Engine already listed
+Peterbilt Cement Truck already listed
+Peterbilt Quarry Truck already listed
+Nissan 300 ZX Turbo already listed
+Audi Quattro already listed
+Volvo Tilt Truck already listed
+Jeep Cherokee already listed
+Muir Hill Tractor Shovel already listed
+Rolls-Royce Silver Cloud already listed
+Atlas Excavator already listed
+Renault 11 already listed
+Ford RS 200 already listed
+Ford Refuse Truck already listed
+Model A Ford Van already listed
+BMW 323i Cabriolet already listed
+Transporter Vehicle with Rocket already listed
+Racing Porsche 935 already listed
+Faun Mobile Crane already listed
+Mercedes 500 SEC already listed
+Skoda 130 LR already listed
+Ford Cargo Skip Truck already listed
+Sauber Group C Racer already listed
+International School Bus already listed
+Vauxhall Astra GTE / Opel Kadett GSi already listed
+Ford LTD Police already listed
+Ford Flareside Pick-up already listed
+Command Vehicle already listed
+Ford Sierra XR 4 i already listed
+Volkswagen Golf GTI already listed
+Mission Helicopter already listed
+Mercedes-Benz 300 E already listed
+Ford 4x4 Open Back Truck already listed
+1984 Dodge Caravan already listed
+Cadillac Allante already listed
+Ferrari 308 GTB already listed
+Scania T 142 Cab already listed
+Ford Supervan II already listed
+Model A Ford Car already listed
+Toyota MR 2 already listed
+Ferrari Testarossa already listed
+97:1989 is being processed...
+############ 1989 ############
+Jaguar XJ 6 already listed
+Rover Sterling already listed
+Carbodies London Taxi already listed
+F 1 Racer already listed
+Porsche 959 already listed
+Vauxhall Astra GTE / Opel Kadett GSi Police already listed
+Caterpillar D9 Tractor already listed
+Modified Racer already listed
+Merryweather Snorkel Fire Engine already listed
+Grand Prix Racing Car already listed
+Peugeot 205 Turbo 16 already listed
+Leyland Titan London Bus already listed
+Oshkosh Fire Engine already listed
+Volkswagen Transporter Ambulance already listed
+SAAB 9000 Turbo already listed
+Peterbilt Quarry Truck already listed
+Jeep Cherokee already listed
+1984 Dodge Daytona Turbo Z already listed
+Muir Hill Tractor Shovel already listed
+Mercedes-Benz 280 GE already listed
+Atlas Excavator already listed
+Ford Bronco II already listed
+Ford Escort Cabriolet already listed
+BMW 323i Cabriolet already listed
+Transporter Vehicle with Rocket already listed
+Faun Mobile Crane already listed
+Mercedes 500 SEC already listed
+Skoda 130 LR already listed
+Ford Cargo Skip Truck already listed
+Sauber Group C Racer already listed
+International School Bus already listed
+Peugeot Quasar already listed
+Dodge Dakota Pick-up already listed
+Ford LTD Police already listed
+BMW M1 already listed
+Mission Helicopter already listed
+Mercedes-Benz 300 E already listed
+Porsche 944 Turbo already listed
+Ford Transit already listed
+Ford T-Bird Turbo Coupe already listed
+Volvo 760 already listed
+Ford 4x4 Open Back Truck already listed
+Rolls-Royce Silver Spirit already listed
+Ikarus Coach already listed
+Chevrolet Camaro IROC Z-28 already listed
+Volvo 480 ES already listed
+GMC Wrecker already listed
+Ferrari Testarossa already listed
+109:1990 is being processed...
+############ 1990 ############
+Jaguar XJ 6 already listed
+Rover Sterling already listed
+Carbodies London Taxi already listed
+Peterbilt Tanker already listed
+F 1 Racer already listed
+Porsche 959 already listed
+Vauxhall Astra GTE / Opel Kadett GSi Police already listed
+Caterpillar D9 Tractor already listed
+Buick Le Sabre already listed
+Lamborghini Countach LP 500 S already listed
+Modified Racer already listed
+Merryweather Snorkel Fire Engine already listed
+Land Rover Ninety already listed
+Leyland Titan London Bus already listed
+Oshkosh Fire Engine already listed
+Peterbilt Cement Truck already listed
+Volkswagen Transporter Ambulance already listed
+Chevrolet Breakdown Van already listed
+SAAB 9000 Turbo already listed
+Peterbilt Quarry Truck already listed
+Lincoln Town Car already listed
+Muir Hill Tractor Shovel already listed
+Mercedes-Benz 280 GE already listed
+BMW 5-Series already listed
+Atlas Excavator already listed
+Dodge Challenger already listed
+Ford Refuse Truck already listed
+Model A Ford Van already listed
+Transporter Vehicle with Rocket already listed
+Faun Mobile Crane already listed
+'57 Chevy already listed
+Ford Cargo Skip Truck already listed
+International School Bus already listed
+Vauxhall Astra GTE / Opel Kadett GSi already listed
+Peugeot Quasar already listed
+Dodge Dakota Pick-up already listed
+Ford LTD Police already listed
+BMW M1 already listed
+Faun Dump Truck already listed
+Ford Sierra XR 4 i already listed
+Mission Helicopter already listed
+Mercedes-Benz 300 E already listed
+Porsche 944 Turbo already listed
+Ford T-Bird Turbo Coupe already listed
+Volvo Container Truck already listed
+Ford 4x4 Open Back Truck already listed
+Oldsmobile Aerotech already listed
+Cadillac Allante already listed
+Ikarus Coach already listed
+Chevrolet Camaro IROC Z-28 already listed
+Ferrari F 40 already listed
+GMC Wrecker already listed
+Mercedes TV News Truck already listed
+Ford Utility Truck already listed
+Ferrari Testarossa already listed
+

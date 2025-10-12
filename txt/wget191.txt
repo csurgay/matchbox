@@ -1,0 +1,1119 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0" />
+	<meta name="description" content="List of Matchbox cars">
+	<meta name="keywords" content="Matchbox,Matchbox cars,Superfast,Regular Wheels,Matchbox packages,Matchbox wheels">
+	<meta name="author" content="Matchbox University">
+	<link rel="icon" href="favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="apple-touch-icon.png" />
+
+
+	<link rel="alternate" hreflang="x" href="http://mbx-u.com/browse.php?id=191">
+	<link rel="alternate" hreflang="x-default" href="http://mbx-u.com/browse.php?id=191">
+	<link rel="alternate" hreflang="en" href="http://mbx-u.com/browse.php?id=191">
+	<link rel="alternate" hreflang="en-US" href="http://mbx-u.com/browse.php?id=191">
+
+	<link rel="alternate" hreflang="pl" href="http://pl.mbx-u.com/browse.php?id=191">
+	<link rel="alternate" hreflang="cs" href="http://cs.mbx-u.com/browse.php?id=191">
+	<link rel="alternate" hreflang="es" href="http://es.mbx-u.com/browse.php?id=191">		
+	<link rel="alternate" hreflang="fr" href="http://fr.mbx-u.com/browse.php?id=191">
+	<link rel="alternate" hreflang="it" href="http://it.mbx-u.com/browse.php?id=191">	
+
+	<title>Browse lists | Matchbox University</title>
+	
+	<link href="stylesheets/style.css?v=2.00" media="all" rel="stylesheet" type="text/css" />
+	<script src="js/min/utility-min.js?v=2.00"></script>
+
+	
+	<!-- IE8 Polyfills -->
+	<!--[if lt IE 9]>
+	    <link rel="stylesheet" type="text/css" href="stylesheets/ie8.css" />
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+		<script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+		<script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+	<![endif]-->
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-VXQ0XB12L3"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'G-VXQ0XB12L3');
+	</script>	
+	
+	<style>
+	#admin_menu
+	{
+		background-color: white;
+		padding: 20px;
+		
+	}
+	#admin_menu a
+	{
+		background-color: #D45132;
+		color: white;
+		padding: 5px 20px;
+		float: right;
+		display: inline-block;
+	}
+	</style>	
+</head>
+
+<body class='browse_lists'>
+
+	<div id="header">	
+		
+<div id="utilityNav">
+	<div id="announcement-banner">
+					<a href="http://mbx-u.com/browse.php?id=191" class="flag"><img src="/flag/en.png"></a>
+					<a href="http://cs.mbx-u.com/browse.php?id=191" class="flag"><img src="/flag/cs.png"></a>
+					<a href="http://es.mbx-u.com/browse.php?id=191" class="flag"><img src="/flag/es.png"></a>
+					<a href="http://fr.mbx-u.com/browse.php?id=191" class="flag"><img src="/flag/fr.png"></a>
+					<a href="http://it.mbx-u.com/browse.php?id=191" class="flag"><img src="/flag/it.png"></a>
+					<a href="http://pl.mbx-u.com/browse.php?id=191" class="flag"><img src="/flag/pl.png"></a>
+			</div>
+	
+	<div id="warningLocal">
+		<div class="row">
+			<div class="large-12 columns">
+				<p>Achtung! This is your <em>local</em> version of MBX</p>
+			</div>
+		</div>
+	</div>	
+	<div class="row">
+		<div class="large-12 columns">
+							<a href='about-site.php'>About</a>			
+				<a href='website-updates.php'>Website Updates</a>
+				<a href='verification.php'>Create an Account</a>
+				<a href='authenticate-test.php'>Log in</a>
+					</div>
+	</div>
+</div>		
+		<div class="row">
+			<div class="large-3 columns">
+				<a href="index.php" id="logo"><img src="images/logo.png" width="225" height="59" /></a>
+			</div>
+			
+			<div class="large-9 columns">
+				<ul id="mainNav">
+					<li><a href="/quiz.php">Quiz</a></li>				
+					<li><a href="/articles.php">Articles</a></li>
+					<li><a href="/browse.php">Browse</a></li>					
+					<li><a href="/find.php">Search</a></li>
+					
+									</ul>
+			</div>
+		</div>		
+				
+	</div>	
+	<div id="main">
+
+<script type="text/javascript" src="/_tom/jquery.js"></script>
+
+
+<div class="row">
+	<div class="large-12 columns">
+
+	
+
+	<p>Below you can browse lists of Matchbox cars. The lists do not cover all Matchbox models. Please use Search function to find other models.</p>
+	
+	<p>Choose a list you want to see:</p>
+			
+	<select>
+					<option  value="405">70th Special Edition					<option  value="397">9-packs 2021					<option  value="331">Action Pack Convoy					<option  value="151">Basic 1954 Core					<option  value="152">Basic 1955 Core					<option  value="153">Basic 1956 Core					<option  value="155">Basic 1957 Core					<option  value="156">Basic 1958 Core					<option  value="157">Basic 1959 Core					<option  value="159">Basic 1960 Core					<option  value="161">Basic 1961 Core					<option  value="162">Basic 1962 Core					<option  value="164">Basic 1963 Core					<option  value="166">Basic 1964 Core					<option  value="167">Basic 1965 Core					<option  value="169">Basic 1966 Row					<option  value="172">Basic 1967 Row					<option  value="174">Basic 1968 Core					<option  value="176">Basic 1969 Row					<option  value="178">Basic 1970 Core					<option  value="181">Basic 1971 Row					<option  value="186">Basic 1972 Row					<option selected value="191">Basic 1973 Row					<option  value="195">Basic 1974 Row					<option  value="200">Basic 1975 Row					<option  value="218">Basic 1978 Germany					<option  value="219">Basic 1978 Row					<option  value="228">Basic 1979 Row					<option  value="13">Basic 1980 Australia					<option  value="15">Basic 1980 Core					<option  value="14">Basic 1980 France					<option  value="17">Basic 1981 Germany					<option  value="18">Basic 1981 Row					<option  value="16">Basic 1981 USA					<option  value="23">Basic 1982 Row					<option  value="24">Basic 1982 USA					<option  value="29">Basic 1983 France					<option  value="26">Basic 1983 Row					<option  value="27">Basic 1983 USA					<option  value="49">Basic 1984 Row					<option  value="45">Basic 1984 USA					<option  value="50">Basic 1985 Row					<option  value="51">Basic 1985 USA					<option  value="60">Basic 1986 Row					<option  value="61">Basic 1986 USA					<option  value="69">Basic 1987 Row					<option  value="70">Basic 1987 USA					<option  value="74">Basic 1988 Row					<option  value="75">Basic 1988 USA					<option  value="97">Basic 1989 Row					<option  value="98">Basic 1989 USA					<option  value="109">Basic 1990 Row					<option  value="107">Basic 1990 USA					<option  value="114">Basic 1991 Row					<option  value="115">Basic 1991 USA					<option  value="117">Basic 1992 Row					<option  value="118">Basic 1992 USA					<option  value="1">Basic 1993 Row					<option  value="5">Basic 1993 USA					<option  value="9">Basic 1994 Row					<option  value="8">Basic 1994 USA					<option  value="12">Basic 1995 USA					<option  value="22">Basic 1996 Row					<option  value="242">Basic 1996 USA					<option  value="30">Basic 1997 Australia					<option  value="33">Basic 1997 USA					<option  value="56">Basic 1998 Row					<option  value="57">Basic 1998 USA					<option  value="65">Basic 1999 USA					<option  value="77">Basic 2000 Row					<option  value="78">Basic 2000 USA					<option  value="101">Basic 2001 Row					<option  value="105">Basic 2001 USA					<option  value="110">Basic 2002 Row					<option  value="112">Basic 2002 USA					<option  value="121">Basic 2003 Row					<option  value="119">Basic 2003 USA					<option  value="123">Basic 2004 USA					<option  value="125">Basic 2005 Row					<option  value="126">Basic 2005 USA					<option  value="130">Basic 2006 Row					<option  value="128">Basic 2006 USA					<option  value="160">Basic 2016 Core					<option  value="163">Basic 2017 Core					<option  value="165">Basic 2018 Core					<option  value="168">Basic 2019 Core					<option  value="171">Basic 2020 Core					<option  value="335">Basic 2021 Core					<option  value="396">Basic 2022 Core					<option  value="401">Basic 2023 Core					<option  value="402">Basic 2024 Core					<option  value="417">Basic 2025 Core					<option  value="390">Best of France 2021					<option  value="332">Best of Germany 2021					<option  value="407">Best of Germany 2024					<option  value="389">Best of Global 2021					<option  value="388">Best of Russia (Россия) 2021					<option  value="333">Best of UK 2021					<option  value="391">Best of UK, Germany, France, Russia 2021					<option  value="365">Bulgarian Matchbox					<option  value="336">Cadillac 2021					<option  value="404">Collectors Series, 70th Anniversary					<option  value="324">Convoy CY					<option  value="392">Convoy trucks					<option  value="325">Days of Thunder Transporters					<option  value="384">Family Candy 2019					<option  value="385">Family Candy 2020					<option  value="410">Family Candy 2024					<option  value="348">Ford Mustang 2021					<option  value="350">Ford Truck 2019					<option  value="400">Forest Service					<option  value="323">Formula 1 Racing Team					<option  value="327">Gift Set					<option  value="381">Graffic Traffic / Graffix					<option  value="366">Hitch n Haul 1980					<option  value="367">Hitch n Haul 1982					<option  value="368">Hitch n Haul 1983					<option  value="369">Hitch n Haul 2005					<option  value="370">Hitch n Haul 2006					<option  value="371">Hitch n Haul 2007					<option  value="372">Hitch n Haul 2008					<option  value="373">Hitch n Haul 2009					<option  value="374">Hitch n Haul 2011					<option  value="375">Hitch n Haul 2012					<option  value="376">Hitch n Haul 2013					<option  value="377">Hitch n Haul 2014					<option  value="413">Hitch n Haul 2021					<option  value="414">Hitch n Haul 2022					<option  value="412">Hitch n Haul 2023					<option  value="411">Hitch n Haul 2024					<option  value="398">INC machines (subseries)					<option  value="322">Indy Racing Team					<option  value="342">Jeep 2019					<option  value="345">Jurassic World 2019					<option  value="334">Matchbox Collectors 2021					<option  value="395">Matchbox Collectors 2022					<option  value="408">Matchbox Collectors 2023					<option  value="409">Matchbox Collectors 2024					<option  value="330">Matchbox University					<option  value="321">Motorcity					<option  value="344">Moving Parts 2019					<option  value="340">Moving Parts 2020					<option  value="337">Moving Parts 2021					<option  value="416">Moving Parts 2023					<option  value="406">Moving Parts 2023, 70th Special set					<option  value="415">Moving Parts 2024					<option  value="403">Moving Parts, 70th Anniversary					<option  value="326">Multipack MP					<option  value="399">National Parks Forest Ranger (subseries)					<option  value="361">New Superfast america, 2007					<option  value="382">Nutmeg Modifieds					<option  value="349">Off Road Rally 2020					<option  value="387">Rally cars from Matchbox					<option  value="339">Retro 2020					<option  value="341">Retro 2021					<option  value="363">Superfast 2005					<option  value="362">Superfast 2006					<option  value="360">Superfast 2008					<option  value="356">Superfast 2010					<option  value="354">Superfast 2011					<option  value="357">Superfast 2013, Matchbox 60th Anniversary					<option  value="338">Superfast 2020					<option  value="364">Superfast 35th Anniversary, 2004					<option  value="359">Superfast 40th Anniversary, 2009					<option  value="355">Superfast 50th Anniversary Gold, 2019					<option  value="358">Superfast 50th Anniversary, 2019					<option  value="320">Team Convoy					<option  value="394">Team Convoy + Convoy					<option  value="393">Team Convoy alike					<option  value="329">Trailers					<option  value="353">Truck Series 2021					<option  value="386">Twin-Pack					<option  value="383">White Rose Collectors Choice					<option  value="347">Working Rigs 2020					<option  value="352">Working Rigs 2021			</select>	
+	<br><br>
+	
+		<h3>Basic 1973 Row</h3>
+		
+		
+		
+					
+		
+		<h6>75 items</h6>
+		
+
+
+		
+					
+			
+			<ul class="large-block-grid-3">	
+			
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0074-010">
+								<img src="images/models/SF0074-010_1.jpg">
+							</a>
+							
+							<h6>Mod Rod</h6>
+							
+							<div class="num">1</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0075-001">
+								<img src="images/models/SF0075-001_1.jpg">
+							</a>
+							
+							<h6>Jeep Hot Rod</h6>
+							
+							<div class="num">2</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0110-001">
+								<img src="images/models/SF0110-001_1.jpg">
+							</a>
+							
+							<h6>Monteverdi Hai</h6>
+							
+							<div class="num">3</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0076-001">
+								<img src="images/models/SF0076-001_1.jpg">
+							</a>
+							
+							<h6>Gruesome Twosome</h6>
+							
+							<div class="num">4</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0001-002">
+								<img src="images/models/SF0001-002_1.jpg">
+							</a>
+							
+							<h6>Lotus Europa</h6>
+							
+							<div class="num">5</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=LR207-001">
+								<img src="images/models/LR207-001_1.jpg">
+							</a>
+							
+							<h6>Ford Pick-up</h6>
+							
+							<div class="num">6</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0077-001">
+								<img src="images/models/SF0077-001_1.jpg">
+							</a>
+							
+							<h6>Hairy Hustler</h6>
+							
+							<div class="num">7</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0018-007">
+								<img src="images/models/SF0018-007_1.jpg">
+							</a>
+							
+							<h6>Ford Mustang Wildcat Dragster</h6>
+							
+							<div class="num">8</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0093-001">
+								<img src="images/models/SF0093-001_1.jpg">
+							</a>
+							
+							<h6>AMX Javelin</h6>
+							
+							<div class="num">9</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0111-001">
+								<img src="images/models/SF0111-001_1.jpg">
+							</a>
+							
+							<h6>Ford Mustang Piston Popper</h6>
+							
+							<div class="num">10</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0094-001">
+								<img src="images/models/SF0094-001_1.jpg">
+							</a>
+							
+							<h6>(VW) Flying Bug</h6>
+							
+							<div class="num">11</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0078-008">
+								<img src="images/models/SF0078-008_1.jpg">
+							</a>
+							
+							<h6>Setra (S 80) Coach</h6>
+							
+							<div class="num">12</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0079-001">
+								<img src="images/models/SF0079-001_1.jpg">
+							</a>
+							
+							<h6>Baja Buggy</h6>
+							
+							<div class="num">13</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0002-002">
+								<img src="images/models/SF0002-002_1.jpg">
+							</a>
+							
+							<h6>Iso Grifo</h6>
+							
+							<div class="num">14</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0112-001">
+								<img src="images/models/SF0112-001_1.jpg">
+							</a>
+							
+							<h6>Lansing Bagnall Fork Lift Truck</h6>
+							
+							<div class="num">15</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=LR228-001">
+								<img src="images/models/LR228-001_1.jpg">
+							</a>
+							
+							<h6>Case Tractor</h6>
+							
+							<div class="num">16</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0095-002">
+								<img src="images/models/SF0095-002_1.jpg">
+							</a>
+							
+							<h6>The Londoner Daimler Bus</h6>
+							
+							<div class="num">17</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0025-001">
+								<img src="images/models/SF0025-001_1.jpg">
+							</a>
+							
+							<h6>Field Car</h6>
+							
+							<div class="num">18</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0027-001">
+								<img src="images/models/SF0027-001_1.jpg">
+							</a>
+							
+							<h6>Road Dragster</h6>
+							
+							<div class="num">19</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0004-002">
+								<img src="images/models/SF0004-002_1.jpg">
+							</a>
+							
+							<h6>Lamborghini Marzal</h6>
+							
+							<div class="num">20</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0113-001">
+								<img src="images/models/SF0113-001_1.jpg">
+							</a>
+							
+							<h6>Rod Roller</h6>
+							
+							<div class="num">21</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0029-003">
+								<img src="images/models/SF0029-003_1.jpg">
+							</a>
+							
+							<h6>Freeman Inter-City Commuter</h6>
+							
+							<div class="num">22</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0030-003">
+								<img src="images/models/SF0030-003_1.jpg">
+							</a>
+							
+							<h6>Volkswagen Camper / Dormobile</h6>
+							
+							<div class="num">23</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0114-006">
+								<img src="images/models/SF0114-006_1.jpg">
+							</a>
+							
+							<h6>Team Matchbox Racing Car</h6>
+							
+							<div class="num">24</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0096-001">
+								<img src="images/models/SF0096-001_1.jpg">
+							</a>
+							
+							<h6>Mod Tractor</h6>
+							
+							<div class="num">25</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0097-001">
+								<img src="images/models/SF0097-001_1.jpg">
+							</a>
+							
+							<h6>Big Banger</h6>
+							
+							<div class="num">26</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0115-001">
+								<img src="images/models/SF0115-001_1.jpg">
+							</a>
+							
+							<h6>Lamborghini Countach</h6>
+							
+							<div class="num">27</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0035-001">
+								<img src="images/models/SF0035-001_1.jpg">
+							</a>
+							
+							<h6>Mack Dump Truck</h6>
+							
+							<div class="num">28</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0037-002">
+								<img src="images/models/SF0037-002_1.jpg">
+							</a>
+							
+							<h6>Racing Mini</h6>
+							
+							<div class="num">29</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0081-001">
+								<img src="images/models/SF0081-001_1.jpg">
+							</a>
+							
+							<h6>Beach Buggy</h6>
+							
+							<div class="num">30</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0082-001">
+								<img src="images/models/SF0082-001_1.jpg">
+							</a>
+							
+							<h6>Volks-Dragon</h6>
+							
+							<div class="num">31</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0098-001">
+								<img src="images/models/SF0098-001_1.jpg">
+							</a>
+							
+							<h6>Maserati Bora</h6>
+							
+							<div class="num">32</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0116-001">
+								<img src="images/models/SF0116-001_1.jpg">
+							</a>
+							
+							<h6>Datsun 126 X</h6>
+							
+							<div class="num">33</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0083-009">
+								<img src="images/models/SF0083-009_1.jpg">
+							</a>
+							
+							<h6>Ferrari Formula 1 Racing Car</h6>
+							
+							<div class="num">34</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0006-002">
+								<img src="images/models/SF0006-002_1.jpg">
+							</a>
+							
+							<h6>Merryweather Fire Engine</h6>
+							
+							<div class="num">35</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0042-004">
+								<img src="images/models/SF0042-004_1.jpg">
+							</a>
+							
+							<h6>Draguar</h6>
+							
+							<div class="num">36</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0099-001">
+								<img src="images/models/SF0099-001_1.jpg">
+							</a>
+							
+							<h6>Soopa Coopa</h6>
+							
+							<div class="num">37</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0117-001">
+								<img src="images/models/SF0117-001_1.jpg">
+							</a>
+							
+							<h6>The Stingeroo Chopper</h6>
+							
+							<div class="num">38</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0118-001">
+								<img src="images/models/SF0118-001_1.jpg">
+							</a>
+							
+							<h6>Clipper</h6>
+							
+							<div class="num">39</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0084-001">
+								<img src="images/models/SF0084-001_1.jpg">
+							</a>
+							
+							<h6>Vauxhall Guildsman</h6>
+							
+							<div class="num">40</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0100-001">
+								<img src="images/models/SF0100-001_1.jpg">
+							</a>
+							
+							<h6>Siva (S 160) Spyder</h6>
+							
+							<div class="num">41</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0101-001">
+								<img src="images/models/SF0101-001_1.jpg">
+							</a>
+							
+							<h6>Tyre Fryer</h6>
+							
+							<div class="num">42</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0102-001">
+								<img src="images/models/SF0102-001_1.jpg">
+							</a>
+							
+							<h6>(VW) Dragon Wheels</h6>
+							
+							<div class="num">43</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0103-001">
+								<img src="images/models/SF0103-001_1.jpg">
+							</a>
+							
+							<h6>Ford Boss Mustang</h6>
+							
+							<div class="num">44</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0047-011">
+								<img src="images/models/SF0047-011_1.jpg">
+							</a>
+							
+							<h6>Ford (F3L) Group 6</h6>
+							
+							<div class="num">45</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0104-001">
+								<img src="images/models/SF0104-001_1.jpg">
+							</a>
+							
+							<h6>Stretcha Fetcha Ambulance</h6>
+							
+							<div class="num">46</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0049-001">
+								<img src="images/models/SF0049-001_1.jpg">
+							</a>
+							
+							<h6>DAF Tipper Container Truck</h6>
+							
+							<div class="num">47</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0097-003">
+								<img src="images/models/SF0097-003_1.jpg">
+							</a>
+							
+							<h6>Pi-Eyed Piper</h6>
+							
+							<div class="num">48</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0120-001">
+								<img src="images/models/SF0120-001_1.jpg">
+							</a>
+							
+							<h6>Chop Suey Chopper</h6>
+							
+							<div class="num">49</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0121-001">
+								<img src="images/models/SF0121-001_1.jpg">
+							</a>
+							
+							<h6>Articulated Truck</h6>
+							
+							<div class="num">50</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0105-001">
+								<img src="images/models/SF0105-001_1.jpg">
+							</a>
+							
+							<h6>Citroen S.M.</h6>
+							
+							<div class="num">51</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0054-006">
+								<img src="images/models/SF0054-006_1.jpg">
+							</a>
+							
+							<h6>Dodge Charger Mk III</h6>
+							
+							<div class="num">52</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0106-001">
+								<img src="images/models/SF0106-001_1.jpg">
+							</a>
+							
+							<h6>Tanzara</h6>
+							
+							<div class="num">53</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0086-002">
+								<img src="images/models/SF0086-002_1.jpg">
+							</a>
+							
+							<h6>Ford Capri</h6>
+							
+							<div class="num">54</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0071-003">
+								<img src="images/models/SF0071-003_1.jpg">
+							</a>
+							
+							<h6>Mercury Commuter Police Car</h6>
+							
+							<div class="num">55</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0008-004">
+								<img src="images/models/SF0008-004_1.jpg">
+							</a>
+							
+							<h6>BMC 1800 Pininfarina</h6>
+							
+							<div class="num">56</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0122-001">
+								<img src="images/models/SF0122-001_1.jpg">
+							</a>
+							
+							<h6>Ford Wild Life Truck</h6>
+							
+							<div class="num">57</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0107-002">
+								<img src="images/models/SF0107-002_1.jpg">
+							</a>
+							
+							<h6>Woosh-N-Push</h6>
+							
+							<div class="num">58</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0057-009">
+								<img src="images/models/SF0057-009_1.jpg">
+							</a>
+							
+							<h6>Mercury Park Lane Fire Chief Car</h6>
+							
+							<div class="num">59</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0087-001">
+								<img src="images/models/SF0087-001_1.jpg">
+							</a>
+							
+							<h6>Lotus Super Seven</h6>
+							
+							<div class="num">60</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0088-001">
+								<img src="images/models/SF0088-001_1.jpg">
+							</a>
+							
+							<h6>Blue Shark</h6>
+							
+							<div class="num">61</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0063-002">
+								<img src="images/models/SF0063-002_1.jpg">
+							</a>
+							
+							<h6>Mercury Cougar Dragster</h6>
+							
+							<div class="num">62</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0123-002">
+								<img src="images/models/SF0123-002_1.jpg">
+							</a>
+							
+							<h6>Freeway Gas Tanker</h6>
+							
+							<div class="num">63</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0089-002">
+								<img src="images/models/SF0089-002_1.jpg">
+							</a>
+							
+							<h6>Slingshot Dragster</h6>
+							
+							<div class="num">64</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0124-001">
+								<img src="images/models/SF0124-001_1.jpg">
+							</a>
+							
+							<h6>Saab Sonett III</h6>
+							
+							<div class="num">65</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0090-001">
+								<img src="images/models/SF0090-001_1.jpg">
+							</a>
+							
+							<h6>Mazda RX 500</h6>
+							
+							<div class="num">66</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0086-008">
+								<img src="images/models/SF0086-008_1.jpg">
+							</a>
+							
+							<h6>Ford Capri Hot Rocker</h6>
+							
+							<div class="num">67</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0067-001">
+								<img src="images/models/SF0067-001_1.jpg">
+							</a>
+							
+							<h6>Porsche 910</h6>
+							
+							<div class="num">68</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0126-001">
+								<img src="images/models/SF0126-001_1.jpg">
+							</a>
+							
+							<h6>Turbo Fury</h6>
+							
+							<div class="num">69</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0091-001">
+								<img src="images/models/SF0091-001_1.jpg">
+							</a>
+							
+							<h6>Dodge Charger Dragster</h6>
+							
+							<div class="num">70</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0127-001">
+								<img src="images/models/SF0127-001_1.jpg">
+							</a>
+							
+							<h6>Jumbo Jet Chopper</h6>
+							
+							<div class="num">71</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0108-001">
+								<img src="images/models/SF0108-001_1.jpg">
+							</a>
+							
+							<h6>SRN 6 Hovercraft / Hovercraft</h6>
+							
+							<div class="num">72</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0071-010">
+								<img src="images/models/SF0071-010_1.jpg">
+							</a>
+							
+							<h6>Mercury Commuter</h6>
+							
+							<div class="num">73</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0109-001">
+								<img src="images/models/SF0109-001_1.jpg">
+							</a>
+							
+							<h6>Toe Joe</h6>
+							
+							<div class="num">74</div>
+										
+		
+					
+						<li class="carGrid">
+							<a href="/ver-detail-var-listing.php?model=SF0092-001">
+								<img src="images/models/SF0092-001_1.jpg">
+							</a>
+							
+							<h6>Alfa Carabo</h6>
+							
+							<div class="num">75</div>
+												
+		</ul>		
+	</div>
+</div>
+
+
+
+<style>
+.carGrid, .imageGrid
+{
+	position: relative;
+}
+.image-grid
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.image-grid li
+{
+	margin: 0;
+	padding: 0;
+}
+.thumb
+{
+	height: 200px;
+}
+button
+{
+	background-color: black;
+	color: white;
+}
+.num
+{
+	position: absolute;
+	top: 0.625rem;
+	left: 1.225rem;
+	font-size: 16px;
+	background-color: #B04E37;
+	color: white;
+	border-radius: 50px;
+	height: 44px;
+	width: 44px;
+	text-align: center;
+	line-height: 44px;
+}
+.img_sm
+{
+	height: 133px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.set_img
+{
+	max-height: 250px;
+	max-width: 300px;
+	margin-bottom: 5px;	
+}
+.set_big
+{
+	width: 100%;
+}
+</style>
+<script>
+$('select').change(function()
+{
+	location.href = '/browse.php?id=' + this.value;
+});
+$('.own').click(function()
+{
+	var id = $(this).data('id');
+	
+	var $box = $(this).parent();
+	
+	$.post('/ajax/own.php?id=' + id, function()
+	{
+		$box.remove();
+	});
+});
+</script>
+
+    
+<footer id="footer">
+	<div class="row">
+		<div class="large-12 columns">
+			<p>Copyright &copy; 2025 Matchbox University / D. Falk, All Rights Reserved.</p>
+			<p>MBX-U.com is in no way affiliated with Mattel, Inc. The MATCHBOX&copy; name and logo are the sole properties of Mattel, Inc.</p>
+			<p><a href="website-feedback.php">Have Feedback on the Website? Its great to hear your feedback, shoot us a message.</a></p>
+			<p><a href="http://photomagicai.com/">Visit our friends at PhotoMagicAI.com</a>
+		</div>
+	</div>  
+</footer>
+
+
+<script>
+$(document).foundation();
+
+
+setInterval(function()
+{
+	$.get('/ping.php');
+}, 60*1000);
+</script>
+<style>
+#subscribe
+{
+	width: 70%;
+	float: left;
+	height: 35px;
+	border-radius: 5px 0 0 5px;			
+	border: 1px solid silver;
+	font-family: inherit;
+}
+#subscribe_txt
+{
+	color: green;
+	text-align: center;
+	border: 1px solid green;
+	padding: 10px 0;
+}
+#btn_subscribe:hover
+{
+	background-color: #087B80;
+}
+#btn_subscribe
+{
+	width: 30%;
+	float: left;
+	background-color: #AB4C36;
+	color: white;
+	border: 0;
+	height: 35px;
+	border-radius: 0 5px 5px 0;	
+}
+#subscribe_clr
+{
+	clear: both;
+}
+.flag img
+{
+	height: 30px;
+}
+</style>
+
+</body>
+</html>

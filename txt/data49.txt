@@ -1,0 +1,517 @@
+							<a href="/ver-detail-var-listing.php?model=SF0233-002">
+								<img src="images/models/SF0233-002_1.jpg">
+							</a>
+							
+							<h6>Dodge Challenger</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0223-002">
+								<img src="images/models/SF0223-002_1.jpg">
+							</a>
+							
+							<h6>S 2 Buccaneer Jet</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0178-005">
+								<img src="images/models/SF0178-005_1.jpg">
+							</a>
+							
+							<h6>Porsche (930) Turbo</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0211-003">
+								<img src="images/models/SF0211-003_1.jpg">
+							</a>
+							
+							<h6>'57 Chevy</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0259-005">
+								<img src="images/models/SF0259-005_1.jpg">
+							</a>
+							
+							<h6>Peterbilt Tanker</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0288-001">
+								<img src="images/models/SF0288-001_1.jpg">
+							</a>
+							
+							<h6>F 1 Racer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0270-001">
+								<img src="images/models/SF0270-001_1.jpg">
+							</a>
+							
+							<h6>(IMSA) Mazda RX-7</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0224-004">
+								<img src="images/models/SF0224-004_1.jpg">
+							</a>
+							
+							<h6>Rover 3500</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0272-001">
+								<img src="images/models/SF0272-001_1.jpg">
+							</a>
+							
+							<h6>AMX Pro-Stocker</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0197-003">
+								<img src="images/models/SF0197-003_1.jpg">
+							</a>
+							
+							<h6>Plymouth Gran Fury Police</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0165-003">
+								<img src="images/models/SF0165-003_1.jpg">
+							</a>
+							
+							<h6>Bedford Car Transporter</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0198-005">
+								<img src="images/models/SF0198-005_1.jpg">
+							</a>
+							
+							<h6>Citroen CX Break</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0230-002">
+								<img src="images/models/SF0230-002_1.jpg">
+							</a>
+							
+							<h6>Merryweather Snorkel Fire Engine</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0234-005">
+								<img src="images/models/SF0234-005_1.jpg">
+							</a>
+							
+							<h6>4x4 Jeep with Canopy</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0292-001">
+								<img src="images/models/SF0292-001_1.jpg">
+							</a>
+							
+							<h6>Peugeot 205 Turbo 16</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0248-002">
+								<img src="images/models/SF0248-002_1.jpg">
+							</a>
+							
+							<h6>Pontiac Firebird T-Roof</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0240-007">
+								<img src="images/models/SF0240-007_1.jpg">
+							</a>
+							
+							<h6>Leyland Titan London Bus</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0286-001">
+								<img src="images/models/SF0286-001_1.jpg">
+							</a>
+							
+							<h6>Oshkosh Fire Engine</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0241-001">
+								<img src="images/models/SF0241-001_1.jpg">
+							</a>
+							
+							<h6>Peterbilt Cement Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0140-016">
+								<img src="images/models/SF0140-016_1.jpg">
+							</a>
+							
+							<h6>Range Rover Police Patrol</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0181-009">
+								<img src="images/models/SF0181-009_1.jpg">
+							</a>
+							
+							<h6>Renault 5 TL</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0289-001">
+								<img src="images/models/SF0289-001_1.jpg">
+							</a>
+							
+							<h6>Jaguar XK 120</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0246-001">
+								<img src="images/models/SF0246-001_1.jpg">
+							</a>
+							
+							<h6>Peterbilt Quarry Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0271-002">
+								<img src="images/models/SF0271-002_1.jpg">
+							</a>
+							
+							<h6>Datsun 280 ZX 2+2</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0243-002">
+								<img src="images/models/SF0243-002_1.jpg">
+							</a>
+							
+							<h6>Audi Quattro</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0290-002">
+								<img src="images/models/SF0290-002_1.jpg">
+							</a>
+							
+							<h6>Volvo Tilt Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0225-001">
+								<img src="images/models/SF0225-001_1.jpg">
+							</a>
+							
+							<h6>Swing Wing (F 14) Tomcat Jet</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0279-001">
+								<img src="images/models/SF0279-001_1.jpg">
+							</a>
+							
+							<h6>1984 Dodge Daytona Turbo Z</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0154-008">
+								<img src="images/models/SF0154-008_1.jpg">
+							</a>
+							
+							<h6>Muir Hill Tractor Shovel</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0226-004">
+								<img src="images/models/SF0226-004_1.jpg">
+							</a>
+							
+							<h6>Leyland Articulated Truck Cab</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0201-008">
+								<img src="images/models/SF0201-008_1.jpg">
+							</a>
+							
+							<h6>Mazda RX-7</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0227-002">
+								<img src="images/models/SF0227-002_1.jpg">
+							</a>
+							
+							<h6>Atlas Excavator</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0167-001">
+								<img src="images/models/SF0167-001_1.jpg">
+							</a>
+							
+							<h6>Honda 750 Police Motorcycle</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0228-004">
+								<img src="images/models/SF0228-004_1.jpg">
+							</a>
+							
+							<h6>Chevy Pro Stocker</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0244-004">
+								<img src="images/models/SF0244-004_1.jpg">
+							</a>
+							
+							<h6>Volvo Zoo Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0213-005">
+								<img src="images/models/SF0213-005_1.jpg">
+							</a>
+							
+							<h6>Ford Refuse Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0249-002">
+								<img src="images/models/SF0249-002_1.jpg">
+							</a>
+							
+							<h6>Talbot Matra Rancho</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0250-002">
+								<img src="images/models/SF0250-002_1.jpg">
+							</a>
+							
+							<h6>Model A Ford Van</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0202-002">
+								<img src="images/models/SF0202-002_1.jpg">
+							</a>
+							
+							<h6>Rolls-Royce Silver Shadow II</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0168-007">
+								<img src="images/models/SF0168-007_1.jpg">
+							</a>
+							
+							<h6>Horse-Box</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0273-001">
+								<img src="images/models/SF0273-001_1.jpg">
+							</a>
+							
+							<h6>Racing Porsche 935</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0291-001">
+								<img src="images/models/SF0291-001_1.jpg">
+							</a>
+							
+							<h6>Faun Mobile Crane</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0287-001">
+								<img src="images/models/SF0287-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes 500 SEC</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0278-001">
+								<img src="images/models/SF0278-001_1.jpg">
+							</a>
+							
+							<h6>Citroen 15 CV</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0256-002">
+								<img src="images/models/SF0256-002_1.jpg">
+							</a>
+							
+							<h6>Kenworth Cabover Aerodyne</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0282-001">
+								<img src="images/models/SF0282-001_1.jpg">
+							</a>
+							
+							<h6>Sauber Group C Racer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0257-001">
+								<img src="images/models/SF0257-001_1.jpg">
+							</a>
+							
+							<h6>SS 100 Jaguar</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0268-001">
+								<img src="images/models/SF0268-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes Unimog with Plow</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0274-001">
+								<img src="images/models/SF0274-001_1.jpg">
+							</a>
+							
+							<h6>(VW) Sand Digger</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0281-001">
+								<img src="images/models/SF0281-001_1.jpg">
+							</a>
+							
+							<h6>4x4 Chevy Blazer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0237-002">
+								<img src="images/models/SF0237-002_1.jpg">
+							</a>
+							
+							<h6>Pontiac Firebird SE</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0269-001">
+								<img src="images/models/SF0269-001_1.jpg">
+							</a>
+							
+							<h6>BMW M1</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0258-002">
+								<img src="images/models/SF0258-002_1.jpg">
+							</a>
+							
+							<h6>Ford Flareside Pick-up</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0217-004">
+								<img src="images/models/SF0217-004_1.jpg">
+							</a>
+							
+							<h6>Command Vehicle</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0275-002">
+								<img src="images/models/SF0275-002_1.jpg">
+							</a>
+							
+							<h6>Ford Sierra XR 4 i</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0205-003">
+								<img src="images/models/SF0205-003_1.jpg">
+							</a>
+							
+							<h6>Mercedes 450 SEL</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0260-002">
+								<img src="images/models/SF0260-002_1.jpg">
+							</a>
+							
+							<h6>Carmichael Commando</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0173-015">
+								<img src="images/models/SF0173-015_1.jpg">
+							</a>
+							
+							<h6>Holden Ruff Trek</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0218-006">
+								<img src="images/models/SF0218-006_1.jpg">
+							</a>
+							
+							<h6>Porsche 928</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0251-001">
+								<img src="images/models/SF0251-001_1.jpg">
+							</a>
+							
+							<h6>Toyota Supra</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0261-004">
+								<img src="images/models/SF0261-004_1.jpg">
+							</a>
+							
+							<h6>Peterbilt Wreck Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0252-001">
+								<img src="images/models/SF0252-001_1.jpg">
+							</a>
+							
+							<h6>Chevrolet Corvette T-Roof</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0238-002">
+								<img src="images/models/SF0238-002_1.jpg">
+							</a>
+							
+							<h6>Ford 4x4 Open Back Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0280-002">
+								<img src="images/models/SF0280-002_1.jpg">
+							</a>
+							
+							<h6>1984 Dodge Caravan</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0174-011">
+								<img src="images/models/SF0174-011_1.jpg">
+							</a>
+							
+							<h6>Airport Coach</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0262-002">
+								<img src="images/models/SF0262-002_1.jpg">
+							</a>
+							
+							<h6>Kenworth Super Boss</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0208-015">
+								<img src="images/models/SF0208-015_1.jpg">
+							</a>
+							
+							<h6>4x4 Chevy Van</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0277-002">
+								<img src="images/models/SF0277-002_1.jpg">
+							</a>
+							
+							<h6>1983/1984 Corvette</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0231-003">
+								<img src="images/models/SF0231-003_1.jpg">
+							</a>
+							
+							<h6>Ferrari 308 GTB</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0164-001">
+								<img src="images/models/SF0164-001_1.jpg">
+							</a>
+							
+							<h6>Dodge Cattle Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0265-008">
+								<img src="images/models/SF0265-008_1.jpg">
+							</a>
+							
+							<h6>Dodge Commando Box Van</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0210-003">
+								<img src="images/models/SF0210-003_1.jpg">
+							</a>
+							
+							<h6>Model A Ford Car</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0236-002">
+								<img src="images/models/SF0236-002_1.jpg">
+							</a>
+							
+							<h6>Fiat (131) Abarth</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0266-008">
+								<img src="images/models/SF0266-008_1.jpg">
+							</a>
+							
+							<h6>Helicopter</h6>
+							

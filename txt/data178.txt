@@ -1,0 +1,524 @@
+							<a href="/ver-detail-var-listing.php?model=SF0012-001">
+								<img src="images/models/SF0012-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0013-001">
+								<img src="images/models/SF0013-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes Trailer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0014-001">
+								<img src="images/models/SF0014-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes Benz "Binz" Ambulance</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0015-001">
+								<img src="images/models/SF0015-001_1.jpg">
+							</a>
+							
+							<h6>Dodge Stake Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0001-001">
+								<img src="images/models/SF0001-001_1.jpg">
+							</a>
+							
+							<h6>Lotus Europa</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0016-001">
+								<img src="images/models/SF0016-001_1.jpg">
+							</a>
+							
+							<h6>Ford Pick-Up</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0017-001">
+								<img src="images/models/SF0017-001_1.jpg">
+							</a>
+							
+							<h6>Ford Refuse Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0018-001">
+								<img src="images/models/SF0018-001_1.jpg">
+							</a>
+							
+							<h6>Ford Mustang</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0019-001">
+								<img src="images/models/SF0019-001_1.jpg">
+							</a>
+							
+							<h6>Boat & Trailer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0020-002">
+								<img src="images/models/SF0020-002_1.jpg">
+							</a>
+							
+							<h6>Leyland Pipe Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0021-001">
+								<img src="images/models/SF0021-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes Scaffolding Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0022-001">
+								<img src="images/models/SF0022-001_1.jpg">
+							</a>
+							
+							<h6>Land Rover Safari</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0023-002">
+								<img src="images/models/SF0023-002_1.jpg">
+							</a>
+							
+							<h6>Dodge Wreck Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0002-001">
+								<img src="images/models/SF0002-001_1.jpg">
+							</a>
+							
+							<h6>Iso Grifo</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0003-001">
+								<img src="images/models/SF0003-001_1.jpg">
+							</a>
+							
+							<h6>Volkswagen 1500 Saloon</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR228-001">
+								<img src="images/models/LR228-001_1.jpg">
+							</a>
+							
+							<h6>Case Tractor</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0024-001">
+								<img src="images/models/SF0024-001_1.jpg">
+							</a>
+							
+							<h6>(AEC) Horse Box</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0025-001">
+								<img src="images/models/SF0025-001_1.jpg">
+							</a>
+							
+							<h6>Field Car</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0026-001">
+								<img src="images/models/SF0026-001_1.jpg">
+							</a>
+							
+							<h6>Lotus MK 33 Racing Car</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0004-001">
+								<img src="images/models/SF0004-001_1.jpg">
+							</a>
+							
+							<h6>Lamborghini Marzal</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR210-001">
+								<img src="images/models/LR210-001_1.jpg">
+							</a>
+							
+							<h6>Foden Concrete Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0028-001">
+								<img src="images/models/SF0028-001_1.jpg">
+							</a>
+							
+							<h6>Pontiac GP Sports Coupe</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0030-001">
+								<img src="images/models/SF0030-001_1.jpg">
+							</a>
+							
+							<h6>Volkswagen Camper / Dormobile</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0031-001">
+								<img src="images/models/SF0031-001_1.jpg">
+							</a>
+							
+							<h6>Rolls Royce Silver Shadow</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0032-002">
+								<img src="images/models/SF0032-002_1.jpg">
+							</a>
+							
+							<h6>Ford Cortina Mk II</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0033-001">
+								<img src="images/models/SF0033-001_1.jpg">
+							</a>
+							
+							<h6>G.M.C. Tipper Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR180-001">
+								<img src="images/models/LR180-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes-Benz 230SL</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0035-001">
+								<img src="images/models/SF0035-001_1.jpg">
+							</a>
+							
+							<h6>Mack Dump Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0036-002">
+								<img src="images/models/SF0036-002_1.jpg">
+							</a>
+							
+							<h6>Fire Pumper Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0038-002">
+								<img src="images/models/SF0038-002_1.jpg">
+							</a>
+							
+							<h6>Faun 8 Wheel Crane</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0039-002">
+								<img src="images/models/SF0039-002_1.jpg">
+							</a>
+							
+							<h6>Lincoln Continental</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0040-003">
+								<img src="images/models/SF0040-003_1.jpg">
+							</a>
+							
+							<h6>Leyland Petrol Tanker</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0005-003">
+								<img src="images/models/SF0005-003_1.jpg">
+							</a>
+							
+							<h6>Lamborghini Miura</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR216-001">
+								<img src="images/models/LR216-001_1.jpg">
+							</a>
+							
+							<h6>Volkswagon Camper</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0006-001">
+								<img src="images/models/SF0006-001_1.jpg">
+							</a>
+							
+							<h6>Merryweather Fire Engine</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0041-001">
+								<img src="images/models/SF0041-001_1.jpg">
+							</a>
+							
+							<h6>Opel Diplomat</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR183-001">
+								<img src="images/models/LR183-001_1.jpg">
+							</a>
+							
+							<h6>Dodge Cattle Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0044-001">
+								<img src="images/models/SF0044-001_1.jpg">
+							</a>
+							
+							<h6>Honda Motor Cycle Trailer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR201-001">
+								<img src="images/models/LR201-001_1.jpg">
+							</a>
+							
+							<h6>Ford Tractor</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR202-001">
+								<img src="images/models/LR202-001_1.jpg">
+							</a>
+							
+							<h6>Hay Trailer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0007-001">
+								<img src="images/models/SF0007-001_1.jpg">
+							</a>
+							
+							<h6>Ford G.T.</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0085-001">
+								<img src="images/models/SF0085-001_1.jpg">
+							</a>
+							
+							<h6>Iron Fairy Crane</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0045-001">
+								<img src="images/models/SF0045-001_1.jpg">
+							</a>
+							
+							<h6>Pony Trailer</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0046-001">
+								<img src="images/models/SF0046-001_1.jpg">
+							</a>
+							
+							<h6>G.M.C. Refrigerator Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0047-002">
+								<img src="images/models/SF0047-002_1.jpg">
+							</a>
+							
+							<h6>Ford (F3L) Group 6</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0048-002">
+								<img src="images/models/SF0048-002_1.jpg">
+							</a>
+							
+							<h6>Mercedes 300 SE Coupe</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0049-001">
+								<img src="images/models/SF0049-001_1.jpg">
+							</a>
+							
+							<h6>DAF Tipper Container Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0050-001">
+								<img src="images/models/SF0050-001_1.jpg">
+							</a>
+							
+							<h6>Dodge Dumper Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0051-001">
+								<img src="images/models/SF0051-001_1.jpg">
+							</a>
+							
+							<h6>Mercedes Unimog</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0052-001">
+								<img src="images/models/SF0052-001_1.jpg">
+							</a>
+							
+							<h6>Ford Kennel Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0053-003">
+								<img src="images/models/SF0053-003_1.jpg">
+							</a>
+							
+							<h6>(AEC) 8 Wheel Tipper</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0054-001">
+								<img src="images/models/SF0054-001_1.jpg">
+							</a>
+							
+							<h6>Dodge Charger Mk III</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0055-002">
+								<img src="images/models/SF0055-002_1.jpg">
+							</a>
+							
+							<h6>Ford Zodiak Mk. IV</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0056-001">
+								<img src="images/models/SF0056-001_1.jpg">
+							</a>
+							
+							<h6>S & S Cadillac Ambulance</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0057-001">
+								<img src="images/models/SF0057-001_1.jpg">
+							</a>
+							
+							<h6>Mercury Park Lane Police Car</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0008-001">
+								<img src="images/models/SF0008-001_1.jpg">
+							</a>
+							
+							<h6>BMC 1800 Pininfarina</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0058-001">
+								<img src="images/models/SF0058-001_1.jpg">
+							</a>
+							
+							<h6>Land Rover Fire Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0060-001">
+								<img src="images/models/SF0060-001_1.jpg">
+							</a>
+							
+							<h6>DAF Girder Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0061-001">
+								<img src="images/models/SF0061-001_1.jpg">
+							</a>
+							
+							<h6>Ford Galaxie Fire Chief Car</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0062-001">
+								<img src="images/models/SF0062-001_1.jpg">
+							</a>
+							
+							<h6>Leyland Site Truck Hut</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR188-001">
+								<img src="images/models/LR188-001_1.jpg">
+							</a>
+							
+							<h6>Alvis Stalwart</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0009-001">
+								<img src="images/models/SF0009-001_1.jpg">
+							</a>
+							
+							<h6>Mercury Cougar</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0064-001">
+								<img src="images/models/SF0064-001_1.jpg">
+							</a>
+							
+							<h6>Dodge Crane Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0065-002">
+								<img src="images/models/SF0065-002_1.jpg">
+							</a>
+							
+							<h6>MG 1100</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=LR205-001">
+								<img src="images/models/LR205-001_1.jpg">
+							</a>
+							
+							<h6>Claas Combine Harvester</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0066-001">
+								<img src="images/models/SF0066-001_1.jpg">
+							</a>
+							
+							<h6>(GMC) Greyhound Coach</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0010-002">
+								<img src="images/models/SF0010-002_1.jpg">
+							</a>
+							
+							<h6>Volkswagen 1600 TL</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0067-001">
+								<img src="images/models/SF0067-001_1.jpg">
+							</a>
+							
+							<h6>Porsche 910</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0011-001">
+								<img src="images/models/SF0011-001_1.jpg">
+							</a>
+							
+							<h6>Rolls Royce Silver Shadow Coupe</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0068-001">
+								<img src="images/models/SF0068-001_1.jpg">
+							</a>
+							
+							<h6>Ford Grit Spreader</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0069-001">
+								<img src="images/models/SF0069-001_1.jpg">
+							</a>
+							
+							<h6>Ford Heavy Wreck Truck</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0070-001">
+								<img src="images/models/SF0070-001_1.jpg">
+							</a>
+							
+							<h6>Jeep (CJ 5)</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0071-001">
+								<img src="images/models/SF0071-001_1.jpg">
+							</a>
+							
+							<h6>Mercury Commuter</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0072-001">
+								<img src="images/models/SF0072-001_1.jpg">
+							</a>
+							
+							<h6>Daimler Fleetline Bus</h6>
+							
+--
+							<a href="/ver-detail-var-listing.php?model=SF0073-002">
+								<img src="images/models/SF0073-002_1.jpg">
+							</a>
+							
+							<h6>Ferrari (250 GTL) Berlinetta</h6>
+							

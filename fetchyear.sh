@@ -14,9 +14,7 @@ cat data$1.txt | sed 's/.*<a href=\"/http:\/\/mbx-u.com/g' | sed 's/.*<img src=\
 
 grep images simple$1.txt > images$1.txt
 
-mkdir images$1
-
-cd images$1
+cd images
 
 while read l ; do wget http://$l ; done < ../images$1.txt 
 

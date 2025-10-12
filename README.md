@@ -13,8 +13,11 @@ and create the simple<idno>.txt file for index.html generation.
 
 This will extend the `images/` directory with the new model images of that year.
 
-3. run `transform-all.sh`
+3. run `./transform-all.sh lookup.txt`
 
 This will append images and model names to the index.html file be
 processing the simple<idno>.txt datafiles.
 
+4. To process a new model year, run `transform.sh <idno>`
+
+This will append images and model names to the index.html file.

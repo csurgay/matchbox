@@ -23,11 +23,13 @@ do
 	then
 		>&2 echo "$l5 already listed"
 	else
+		linkpre='<a href="'
+		linkpost='">'
 		pre='<img src="'
 		dir="images/"
 		img=$(echo $l2 | sed 's/mbx-u\.com\/images\/models\///')
-		post='" width="240px">'
-		echo $pre$dir$img$post
+		post='" width="240px"></a>'
+		echo $linkpre$l1$linkpost$pre$dir$img$post
 		((count++))
 		echo "<br>$count. $l5 ($2)<p>"
 	fi

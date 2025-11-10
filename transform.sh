@@ -23,15 +23,18 @@ do
 	then
 		>&2 echo "$l5 already listed"
 	else
+		divstr='<div style="float:left;">'
 		linkpre='<a href="'
 		linkpost='">'
 		pre='<img src="'
 		dir="images/"
 		img=$(echo $l2 | sed 's/mbx-u\.com\/images\/models\///')
-		post='" width="240px"></a>'
+		post='" height="200px"></a>'
+		echo $divstr;
 		echo $linkpre$l1$linkpost$pre$dir$img$post
 		((count++))
-		echo "<br>$count. $l5 ($2)<p>"
+#		echo "<br>$2/$count $l5</div>"
+                echo "<br>${2:(-2)} $l5</div>"
 	fi
-done < simple$1.txt
+done < txt/simple$1.txt
 

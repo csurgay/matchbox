@@ -2,6 +2,8 @@
 
 Training the recognition of matchbox models 1967-1990
 
+Try it here: https://csurgay.com/matchbox
+
 I. BUILDING THE DATABASE
 
 1. run `./fetchyear-all.sh lookup.txt`
